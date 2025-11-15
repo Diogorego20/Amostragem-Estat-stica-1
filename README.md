@@ -178,8 +178,9 @@ Por favor, leia o arquivo `CONTRIBUTING.md` para mais detalhes sobre o processo.
 ## 9. Autor
 
 -   **Diogo Da Silva Rego**
-    -   GitHub: `[Seu-Usuario-GitHub]`
-    -   LinkedIn: `[Seu-Link-LinkedIn]`
+    -   E-mail: `[diogo.silva.rego@academico.ufpb.br]`
+    -   LinkedIn: `[diogorego]`
+    
 
 ---
 
